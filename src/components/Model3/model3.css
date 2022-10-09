@@ -1,0 +1,13 @@
+.model3 {
+      background-image: url(../../img/model3.jpeg);
+      background-size: cover;
+      background-position: 50%;
+      height: 100vh;
+}
+
+.model3 .h1 {
+      text-align: center;
+      position: relative;
+      top: 10rem;
+      line-height: 50px;
+}

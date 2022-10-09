@@ -1,0 +1,13 @@
+.accessories{
+      background-image: url(../../img/accessories.jpeg);
+      background-size: cover;
+      background-position: 50%;
+      height: 100vh;
+}
+
+.accessories .h1 {
+      text-align: center;
+      position: relative;
+      top: 7rem;
+      line-height: 50px;
+}

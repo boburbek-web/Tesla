@@ -1,0 +1,13 @@
+.modelS {
+      background-image: url(../../img/modelS.jpeg);
+      background-size: cover;
+      background-position: 50%;
+      height: 100vh;
+}
+
+.modelS .h1 {
+      text-align: center;
+      position: relative;
+      top: 10rem;
+      line-height: 50px;
+}
